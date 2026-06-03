@@ -2,17 +2,6 @@
 
 Desenvolvedor em formação, atualmente estudando e criando projetos com **Python**, **Selenium**, **Go** e plataformas **no-code/low-code**, como o **n8n**, com foco em automações, produtividade e soluções inteligentes.
 
----
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### Tecnologias que estou estudando
 
 <div style="display: inline_block"><br>
@@ -21,6 +10,13 @@ Desenvolvedor em formação, atualmente estudando e criando projetos com **Pytho
   <img align="center" alt="Leonardo-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Leonardo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Leonardo-GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Automação-111111?style=for-the-badge&logo=robotframework&logoColor=white">
 </div>
 
 ---
@@ -46,11 +42,11 @@ Desenvolvedor em formação, atualmente estudando e criando projetos com **Pytho
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/Leonardo Barbosa" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:Leonardotuio@hotmail.com">
+  <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -59,13 +55,8 @@ Desenvolvedor em formação, atualmente estudando e criando projetos com **Pytho
 
 ### Um pouco sobre mim
 
-Sou Leonardo Barbosa, apaixonado por tecnologia, automação e desenvolvimento de soluções práticas.  
+Sou Leonardo Barbosa, apaixonado por tecnologia, automação e desenvolvimento de soluções práticas.
+
 Atualmente estou evoluindo como desenvolvedor, estudando linguagens de programação e ferramentas que ajudam a transformar processos manuais em sistemas mais inteligentes e produtivos.
 
 Meu objetivo é criar projetos que unam programação, automação e eficiência para resolver problemas reais.
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
-</div>
